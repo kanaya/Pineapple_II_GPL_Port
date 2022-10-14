@@ -8231,9 +8231,9 @@ Audio_Jack
 <junction x="124.46" y="101.6"/>
 </segment>
 <segment>
-<pinref part="J11" gate="G$1" pin="TIP"/>
-<wire x1="66.04" y1="96.52" x2="68.58" y2="96.52" width="0.1524" layer="91"/>
-<label x="68.58" y="96.52" size="0.8128" layer="95" xref="yes"/>
+<pinref part="J11" gate="G$1" pin="RING"/>
+<wire x1="66.04" y1="104.14" x2="68.58" y2="104.14" width="0.1524" layer="91"/>
+<label x="68.58" y="104.14" size="0.8128" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="DTCT1" class="0">
@@ -8264,9 +8264,9 @@ Audio_Jack
 <label x="96.52" y="106.68" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="J11" gate="G$1" pin="RING"/>
-<wire x1="66.04" y1="104.14" x2="68.58" y2="104.14" width="0.1524" layer="91"/>
-<label x="68.58" y="104.14" size="0.8128" layer="95" xref="yes"/>
+<pinref part="J11" gate="G$1" pin="TIP"/>
+<wire x1="66.04" y1="96.52" x2="68.58" y2="96.52" width="0.1524" layer="91"/>
+<label x="68.58" y="96.52" size="0.8128" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="ANLG1" class="0">
